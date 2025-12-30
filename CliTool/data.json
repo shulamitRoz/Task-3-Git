@@ -1,0 +1,166 @@
+[
+  {
+    "id": 1,
+    "name": "Leo",
+    "species": "Lion",
+    "age": 5,
+    "color": "Golden"
+  },
+  {
+    "id": 2,
+    "name": "Molly",
+    "species": "Cat",
+    "age": 3,
+    "color": "Black"
+  },
+  {
+    "id": 3,
+    "name": "Buddy",
+    "species": "Dog",
+    "age": 4,
+    "color": "Brown"
+  },
+  {
+    "id": 4,
+    "name": "Daisy",
+    "species": "Cow",
+    "age": 2,
+    "color": "White"
+  },
+  {
+    "id": 5,
+    "name": "Charlie",
+    "species": "Dog",
+    "age": 6,
+    "color": "Golden"
+  },
+  {
+    "id": 6,
+    "name": "Luna",
+    "species": "Cat",
+    "age": 1,
+    "color": "Gray"
+  },
+  {
+    "id": 7,
+    "name": "Max",
+    "species": "Horse",
+    "age": 7,
+    "color": "Black"
+  },
+  {
+    "id": 8,
+    "name": "Bella",
+    "species": "Dog",
+    "age": 2,
+    "color": "White"
+  },
+  {
+    "id": 9,
+    "name": "Coco",
+    "species": "Parrot",
+    "age": 3,
+    "color": "Green"
+  },
+  {
+    "id": 10,
+    "name": "Rocky",
+    "species": "Dog",
+    "age": 5,
+    "color": "Brown"
+  },
+  {
+    "id": 11,
+    "name": "Simba",
+    "species": "Lion",
+    "age": 4,
+    "color": "Golden"
+  },
+  {
+    "id": 12,
+    "name": "Mittens",
+    "species": "Cat",
+    "age": 2,
+    "color": "White"
+  },
+  {
+    "id": 13,
+    "name": "Oscar",
+    "species": "Dog",
+    "age": 3,
+    "color": "Black"
+  },
+  {
+    "id": 14,
+    "name": "Nala",
+    "species": "Lion",
+    "age": 5,
+    "color": "Golden"
+  },
+  {
+    "id": 15,
+    "name": "Duke",
+    "species": "Horse",
+    "age": 6,
+    "color": "Brown"
+  },
+  {
+    "id": 16,
+    "name": "Ginger",
+    "species": "Cat",
+    "age": 4,
+    "color": "Orange"
+  },
+  {
+    "id": 17,
+    "name": "Rocko",
+    "species": "Dog",
+    "age": 1,
+    "color": "Gray"
+  },
+  {
+    "id": 18,
+    "name": "Toby",
+    "species": "Dog",
+    "age": 7,
+    "color": "White"
+  },
+  {
+    "id": 19,
+    "name": "Kiwi",
+    "species": "Parrot",
+    "age": 2,
+    "color": "Yellow"
+  },
+  {
+    "id": 20,
+    "name": "Shadow",
+    "species": "Cat",
+    "age": 5,
+    "color": "Black"
+  },
+  {
+    "id": 25,
+    "name": "bee",
+    "species": "bee",
+    "age": 3,
+    "color": "yellow"
+  },
+  {
+    "name": "Zigi",
+    "species": "Zebra",
+    "age": 3,
+    "color": "Black and White",
+    "id": "9156e56c-0e1c-49fa-8dda-777f19d98ea4"
+  },
+  {
+    "name": "Zebra",
+    "species": "Mammal",
+    "age": 4
+  },
+  {
+    "name": "Zebra",
+    "species": "Mammal",
+    "age": 4
+  }
+]
