@@ -1,0 +1,6 @@
+docker run --rm my-ffmpeg -version
+
+
+RUN apt-get update && apt-get install -y ffmpeg
+
+ENTRYPOINT ["ffmpeg"]
